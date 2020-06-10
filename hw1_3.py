@@ -12,8 +12,7 @@ minimum = A[0]
 for i in range(n):
     if A[i] < minimum:
         minimum = A[i]
-print(minimum)
-
+print("Минимальное число:", minimum)
 
 
 
